@@ -17,7 +17,7 @@ Raymond K. H. Yip\*, Jeremy Er\*, Lei Qin, Quoc Hoang Nguyen, Allan Motyer, Joel
 ## Data
 
 * Raw Xenium output of the 21 Xenium Prime 5K bone marrow trephines and the RM-1 pilot: GEO [GSE299193](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE299193) (SuperSeries [GSE299207](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE299207)).
-* Processed data objects, result tables and the numbers plotted in each figure panel: Zenodo [TODO: DOI].
+* Processed data objects, result tables and the numbers plotted in each figure panel: Zenodo [DOI: 10.5281/zenodo.23407085](https://doi.org/10.5281/zenodo.23407085).
 
 ## Analyses
 
